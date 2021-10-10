@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pisitchai Siritanachaikul</h1>
+- I'm a freshly graduate from KMITL and currently looking for work.
 - 📫 How to reach me **pisitchai.sirirat@gmail.com**
 
 
